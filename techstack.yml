@@ -1,0 +1,20 @@
+repo_name: filipeoliveiraa/resilience-engineering
+report_id: 84958ee07d16ec2b90f9df5396b0fb25
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-04T23:18:46+00:00'
+requested_by: lorin
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/filipeoliveiraa/resilience-engineering
+  detection_source: Repo Metadata
