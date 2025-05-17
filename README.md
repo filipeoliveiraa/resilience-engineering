@@ -1659,6 +1659,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [From Counting Failures to Anticipating Risks: Possible Futures for Patient Safety]
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Behind Human Error: Taming Complexity to Improve Patient Safety]
+* [Escaping failures of foresight](https://www.researchgate.net/publication/239357782_Escaping_failures_of_foresight)
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
