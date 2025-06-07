@@ -1380,6 +1380,7 @@ Vaughan is a sociology researcher who did a famous study of the NASA Challenger 
 * [The Illusion of Explanation]
 * [Thick Versus Thin: Description Versus Classification in Learning From Case Reviews](https://www.annemergmed.com/article/S0196-0644(07)01451-5/fulltext)
 * [Safety, Error, and Resilience: a Meta-narrative Review](https://www.resilience-engineering-association.org/download/resources/symposium/symposium_2015/Wears_R.-Sutcliffe_K.-Safety-error-and-resilience-a-meta-narrative-review-Paper.pdf)
+* [Resilient Procedures: Oxymoron or Innovation?](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315366838-18/resilient-procedures-oxymoron-innovation-robert-wears-garth-hunte) ([BH](https://safetyinsights.org/2025/02/24/resilient-procedures-oxymoron-or-innovation/))
 
 ### Selected talks
 
