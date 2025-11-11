@@ -1176,8 +1176,10 @@ Rayo is the Director of the Cognitive Systems Engineering Laboratory at the Ohio
 
 * [Developing Systemic Contributors and Adaptations Diagramming (SCAD): systemic insights, multiple pragmatic implementations]
 * [Multiple Systemic Contributors versus Root Cause: Learning from a NASA Near Miss](https://www.researchgate.net/publication/308194080_Multiple_Systemic_Contributors_versus_Root_Cause_Learning_from_a_NASA_Near_Miss)
+* [The Silicon Valley Way: Move fast and break…aviation safety?]
 
 [Developing Systemic Contributors and Adaptations Diagramming (SCAD): systemic insights, multiple pragmatic implementations]: https://journals.sagepub.com/doi/10.1177/1071181322661334
+[The Silicon Valley Way: Move fast and break…aviation safety?]: https://thebulletin.org/2025/05/the-silicon-valley-way-move-fast-and-breakaviation-safety/
 
 ## James Reason
 
@@ -1662,6 +1664,7 @@ Many of these are mentioned in Woods's [short course](https://www.youtube.com/pl
 * [Resilience Engineering: New directions for measuring and maintaining safety in complex systems]
 * [Behind Human Error: Taming Complexity to Improve Patient Safety]
 * [Escaping failures of foresight](https://www.researchgate.net/publication/239357782_Escaping_failures_of_foresight)
+* [The Silicon Valley Way: Move fast and break…aviation safety?]
 
 [The theory of graceful extensibility: basic rules that govern adaptive systems]: https://www.researchgate.net/publication/327427067_The_Theory_of_Graceful_Extensibility_Basic_rules_that_govern_adaptive_systems
 [How do systems manage their adaptive capacity to successfully handle disruptions? A resilience engineering perspective]: https://www.researchgate.net/publication/286581322_How_do_systems_manage_their_adaptive_capacity_to_successfully_handle_disruptions_A_resilience_engineering_perspective
